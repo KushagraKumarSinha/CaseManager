@@ -1,0 +1,38 @@
+.title{
+    font-size: 50px;
+    padding-bottom: 30px;
+    color: red;
+    font-weight: bold;
+}
+
+
+.NameInput{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.AddressInput{
+    padding-bottom: 30px;
+}
+
+.MobileInput{
+    padding-bottom: 30px;
+}
+
+.SuccessMessage{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(41, 167, 41);
+}
+
+.ErrorMessage{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: red;
+}
+
+.ClickerButton{
+    padding-bottom: 20px;
+}

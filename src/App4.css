@@ -1,0 +1,17 @@
+.DisCases{
+    padding-bottom: 20px;
+}
+
+.CaseHolder{
+    padding-bottom: 10px;
+}
+
+.CaseDisplay{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.TableDisplay{
+    color: red;
+    font-weight: 500;
+}
